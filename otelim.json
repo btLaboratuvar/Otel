@@ -1,0 +1,26 @@
+[
+  {
+    "otel": "Otel Köşk",
+    "oda": "105",
+    "odaYonu": "havuz",
+    "resim": "https://aaa.com/img.jpg",
+  },
+  {
+    "otel": "Otel Köşk",
+    "oda": "106",
+    "odaYonu": "bahçe",
+    "resim": "https://aaa.com/img.jpg",
+  },
+  {
+    "otel": "Otel Köşk",
+    "oda": "107",
+    "odaYonu": "yol",
+    "resim": "https://aaa.com/img.jpg",
+  },
+  {
+    "otel": "Otel Köşk",
+    "oda": "108",
+    "odaYonu": "dağ",
+    "resim": "https://aaa.com/img.jpg",
+  }
+]
