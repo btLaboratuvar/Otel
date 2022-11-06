@@ -1,26 +1,26 @@
 [
   {
-    "otel": "Otel Köşk",
-    "oda": "105",
-    "odaYonu": "havuz",
-    "resim": "https://raw.githubusercontent.com/btLaboratuvar/Otel/main/105.jpg",
+    "otelIsım": "Otel Köşk",
+    "otelBolge": "105",
+    "otelNumara": "havuz",
+    "otelResim": "https://raw.githubusercontent.com/btLaboratuvar/Otel/main/105.jpg"
   },
   {
-    "otel": "Otel Köşk",
-    "oda": "106",
-    "odaYonu": "bahçe",
-    "resim": "https://raw.githubusercontent.com/btLaboratuvar/Otel/main/106.jpg",
+    "otelIsım": "Otel Köşk",
+    "otelBolge": "106",
+    "otelNumara": "bahçe",
+    "otelResim": "https://raw.githubusercontent.com/btLaboratuvar/Otel/main/106.jpg"
   },
   {
-    "otel": "Otel Köşk",
-    "oda": "107",
-    "odaYonu": "yol",
-    "resim": "https://raw.githubusercontent.com/btLaboratuvar/Otel/main/107.jpg",
+    "otelIsım": "Otel Köşk",
+    "otelBolge": "107",
+    "otelNumara": "yol",
+    "otelResim": "https://raw.githubusercontent.com/btLaboratuvar/Otel/main/107.jpg"
   },
   {
-    "otel": "Otel Köşk",
-    "oda": "108",
-    "odaYonu": "dağ",
-    "resim": "https://raw.githubusercontent.com/btLaboratuvar/Otel/main/108.jpg",
+    "otelIsım": "Otel Köşk",
+    "otelBolge": "108",
+    "otelNumara": "dağ",
+    "otelResim": "https://raw.githubusercontent.com/btLaboratuvar/Otel/main/108.jpg"
   }
 ]
